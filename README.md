@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies developing software solutions, and trying to solve education problems.
 - 🎓 &nbsp; Recent Lambda School Graduate.
 - 💼 &nbsp; Working as a Support Hours Lead at lambda School.
-- 🌱 &nbsp; Learning more about Pthon, React, and applicable libraries.
+- 🌱 &nbsp; Learning more about Python, React, and applicable libraries.
 - ✍️ &nbsp; Creating a foreign language learning app as a side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
