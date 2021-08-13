@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://portfolio-site-peach.vercel.app/personal-info/michael/"><img alt="Website" src=""></a>
-<a href="https://www.linkedin.com/in/michael-habermas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Micahel%20Vikram%20Habermas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/michael-habermas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Micahel%20%20Habermas-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:michaelghabermas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-michaelghabermas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
