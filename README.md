@@ -20,18 +20,11 @@
 
 <br />
 
-- 🦙 I will be finishing up Lambda's full-stack course in two weeks
-- ⌨️ I’m currently working on the [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) for Human Rights First 
-- 👨‍💻 I’m looking to land my first developer position
-- 🥅 2021 Goals: Keep a growth mindset
-- 🥁 Fun fact: I play drums professionally and produce music 
-
 - 🤔 &nbsp; Exploring new technologies developing software solutions, and trying to solve education problems.
 - 🎓 &nbsp; Recent Lambda School Graduate.
 - 💼 &nbsp; Working as a Support Hours Lead at lambda School.
 - 🌱 &nbsp; Learning more about Python, React, and applicable libraries.
 - ✍️ &nbsp; Creating a foreign language learning app as a side hustles.
-
 
 <br />
 
