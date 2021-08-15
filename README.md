@@ -28,7 +28,7 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHabermas&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="michael-habemas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHabermas&show_icons=true&locale=en&theme=dracula&count_private=true" alt="michael-habemas" /></p>
 
 <br />
 
