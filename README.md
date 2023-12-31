@@ -21,8 +21,8 @@
 <br />
 
 - 🤔 &nbsp; Exploring new technologies developing software solutions, and trying to solve education problems.
-- 🎓 &nbsp; Recent Lambda School Graduate.
-- 💼 &nbsp; Working as a Support Hours Lead at lambda School.
+- 🎓 &nbsp; Lambda School / BloomTech Graduate.
+- 💼 &nbsp; Working Sofrtware Engineer II @ Zebra Technologies.
 - 🌱 &nbsp; Currently learning more about Python and React Native
 - ✍️ &nbsp; Creating a foreign language learning app as a side project.
 
