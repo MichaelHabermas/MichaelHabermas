@@ -40,6 +40,6 @@
 [linkedin]: https://www.linkedin.com/in/michael-habermas
 [twitter]: https://twitter.com/habermoose
 
-<a href="https://speaq-website.vercel.app/"><img width=100 alt="Speaq" src="https://speaq-website.vercel.app/assets/images/MainBetaLogo.png"></a>
+<a href="https://speaq-website.vercel.app/"><img width=50 alt="Speaq" src="https://speaq-website.vercel.app/assets/images/app_icon.png"></a>
 <a href="https://portfolio-site-peach.vercel.app/personal-info/michael/"><img alt="Website" src=""></a>
 
