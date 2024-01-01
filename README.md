@@ -41,5 +41,5 @@
 [twitter]: https://twitter.com/habermoose
 
 <a href="https://speaq-website.vercel.app/"><img width=40 alt="Speaq" src="https://speaq-website.vercel.app/assets/images/app_icon.png"></a>
-<a href="https://portfolio-site-peach.vercel.app/personal-info/michael/"><img width=40 alt="Website" src="https://speaq-website.vercel.app/assets/images/app_icon.png"></a>
+<a href="https://portfolio-site-peach.vercel.app/personal-info/michael/"><img width=40 alt="Website" src="https://speaq-website.vercel.app/assets/images/Toby.png"></a>
 
