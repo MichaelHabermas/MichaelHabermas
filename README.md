@@ -1,6 +1,6 @@
 <h1 align='center'>Hey there, I'm Michael 👋</h1>
 
-<h4 style='font-size: 0px' align='center'>DEVELOPER || STUDENT || TEACHER</h4>
+<h4 style='font-size: 0px' align='center'>SOFTWARE ENGINNER || TEACHER</h4>
 
 <br />
 
@@ -22,8 +22,8 @@
 
 - 🤔 &nbsp; Exploring new technologies developing software solutions, and trying to solve education problems.
 - 🎓 &nbsp; Lambda School / BloomTech Graduate.
-- 💼 &nbsp; Working Sofrtware Engineer II @ Zebra Technologies.
-- 🌱 &nbsp; Currently learning more about Python and React Native
+- 💼 &nbsp; Working Software Engineer II @ Zebra Technologies.
+- 🌱 &nbsp; Currently learning more about Python, Java and React Native.
 - ✍️ &nbsp; Creating a foreign language learning app as a side project.
 
 <br />
