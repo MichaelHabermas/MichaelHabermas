@@ -1,6 +1,6 @@
 <h1 align='center'>Hey there, I'm Michael 👋</h1>
 
-<h4 style='font-size: 0px' align='center'>SOFTWARE ENGINNER || TEACHER</h4>
+<h3 style='font-size: 0px' align='center'>Full-Stack Software Engineer || Teacher</h3>
 
 <br />
 
@@ -28,7 +28,12 @@
 
 <br />
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelHabermas&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="michael-habemas" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHabermas&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="michael-habemas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHabermas&theme=dracula" alt="michael-habemas" /></p>
 
 <br />
 
