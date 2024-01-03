@@ -30,11 +30,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelHabermas&theme=dracula&count_private=true&show_icons=true&locale=en&layout=compact" alt="michael-habemas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHabermas&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="michael-habemas" /></p>
-
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHabermas&show_icons=true&locale=en&theme=dracula&count_private=true&hide=stars" alt="michael-habemas" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHabermas&theme=dracula" alt="michael-habemas" /></p>
-
 <br />
 
 ## Connect with me:
