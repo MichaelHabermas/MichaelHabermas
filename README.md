@@ -5,8 +5,8 @@
 <br />
 
 - 🤔 &nbsp; Exploring new technologies developing software solutions, and trying to solve education problems.
+- 💼 &nbsp; Working Software Development Engineer, Senior @ Zebra Technologies.
 - 🎓 &nbsp; Lambda School / BloomTech Graduate.
-- 💼 &nbsp; Working Software Engineer II @ Zebra Technologies.
 - 🌱 &nbsp; Currently learning more about Python, Java and React Native.
 - ✍️ &nbsp; Creating a foreign language learning app as a side project.
 
